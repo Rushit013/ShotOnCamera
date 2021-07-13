@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342611721300",
+    "project_id": "shotoncameraofficial",
+    "storage_bucket": "shotoncameraofficial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342611721300:android:6a5596c236da89ef2dc1c1",
+        "android_client_info": {
+          "package_name": "com.manthanvanani.shotoncamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342611721300-i4tgkdaumn53c4c284lfrl7ctam4gqfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfiuOq7N4RMARq9f1T_2g_1hOKQejgfNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342611721300-i4tgkdaumn53c4c284lfrl7ctam4gqfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
